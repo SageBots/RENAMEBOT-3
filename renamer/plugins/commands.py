@@ -126,7 +126,7 @@ async def reset_user(c, m):
         else:
             await m.reply_text('Use this command in the format `/reset user_id`')
     else:
-        await m.reply_sticker(sticker="CAACAgIAAx0CVjDmEQACS3lgvEO2HpojwIQe8lqa4L66qEnDzQACjAEAAhZCawq6dimcpGB-fx8E", quote=True)
+        await m.reply_sticker(sticker="CAACAgUAAxkBAAEMSGdhdB-onvcdRi8jlQ9ZXWPWdmGlYwACWgMAAkN1GFT9kO6CY5siQCEE", quote=True)
         await m.reply_text(text="You are not admin to use this command.")
 
 
@@ -151,7 +151,7 @@ async def password(c, m):
                 await m.reply_text(text=LOCKED_WITH_KEY, quote=True)
                 await m.reply_text(f'Logged Sucessfully to the bot.\nEnjoy the bot now {FACE_SAVORING_FOOD}.', quote=True)
             else:
-                await m.reply_sticker(sticker="CAACAgQAAxkBAAIlHWC8WTwz55v_w0laDRuSrwL2oWRTAALtDAACYLUpUtRT8sziJp59HwQ", quote=True)
+                await m.reply_sticker(sticker="CAACAgUAAxkBAAEMSGFhdB9hEhO_z9ilIsVl-clqe0I71AACKwMAAnI-GVQk3LM_sij9AAEhBA", quote=True)
                 return await m.reply_text(f'Incorrect password', quote=True)
     else:
         await m.reply_text(f'**This bot was publicly available to all {SMILING_FACE_WITH_HEARTS}.**\nIf you are the owner of the bot to make bot private add bot password in Config Vars {LOCKED_WITH_KEY}.', quote=True)
