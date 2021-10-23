@@ -14,19 +14,19 @@ class TEXT:
 
     ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
 
-** My Name:** {bot_name}
+**🤖 My Name:** {bot_name}
     
-** Language:** [Python 3](https://www.python.org/)
+**📰 Language:** [Python 3](https://www.python.org/)
 
-** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
+**📡 FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-** Developer:** @IET_Owner
+**👩‍💻 Developer:** @IET_Owner
 
-** Channel:** [BOT UPDATES](https://t.me/IET_updates)
+**🔔 Channel:** [BOT UPDATES](https://t.me/IET_updates)
 
-** Group:** [BOT SUPPORT](https://t.me/iET_support)
+**👨‍👨‍👦‍👦 Group:** [BOT SUPPORT](https://t.me/iET_support)
 
-** Source Code:** [Press Me](https://github.com/ietupdates/RENAMEBOT-3)
+**⛓️ Source Code:** [Press Me](https://github.com/ietupdates/RENAMEBOT-3)
 """
 
     HELP_USER = """**Follow Below Steps:**
