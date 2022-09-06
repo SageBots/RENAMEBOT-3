@@ -14,11 +14,7 @@ class TEXT:
 
     ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
 
-**🤖 My Name:** {bot_name}
-    
-
-
-
+**🤖 My Name:** Sage File Renamer
 
 **👩‍💻 Developer:** @Unknown_Harman
 
@@ -44,8 +40,6 @@ class TEXT:
 I am Sage File Renamer Bot.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
-
-**Maintained By:** {bot_owner}
 """
 
 
